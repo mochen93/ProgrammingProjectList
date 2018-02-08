@@ -1,11 +1,11 @@
-//À­¶¡ÖíÎÄ×ÖÓÎÏ·¡ª¡ªÕâÊÇÒ»¸öÓ¢ÓïÓïÑÔÓÎÏ·¡£»ù±¾¹æÔòÊÇ½«Ò»¸öÓ¢Óïµ¥´ÊµÄµÚÒ»¸ö¸¨ÒôÒôËØµÄ×ÖÄ¸ÒÆ¶¯µ½´ÊÎ²²¢ÇÒ¼ÓÉÏºó×º-ay£¨Æ©Èç¡°banana¡±»á±ä³É¡°anana-bay¡±£©¡£¿ÉÒÔÔÚÎ¬»ù°Ù¿ÆÉÏÁË½â¸ü¶àÄÚÈİ¡£
+ï»¿//æ‹‰ä¸çŒªæ–‡å­—æ¸¸æˆ
 #include<iostream>
 #include<string>
 using namespace std;
 const string & PigLati(string& str);
 int main()
 {
-	cout << "ÊäÈë" << endl;
+	cout << "ÃŠÃ¤ÃˆÃ«" << endl;
 	string str;
 	cin >> str;
 	PigLati(str);
